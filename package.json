@@ -1,0 +1,26 @@
+{
+  "name": "closureproject",
+  "version": "1.0.0",
+  "description": "* Instructions to open the project.\r 1. Copy the repository link.\r 2. Open visual studio code.\r 3. Using clone \"repo-link\" command clone the repository.\r 4. Run the files inside the **test folder** to check the output.",
+  "main": "cacheFunction.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amrutha2668/ClosureProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amrutha2668/ClosureProject/issues"
+  },
+  "homepage": "https://github.com/Amrutha2668/ClosureProject#readme"
+}
