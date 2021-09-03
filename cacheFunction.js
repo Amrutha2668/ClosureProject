@@ -18,6 +18,7 @@ function cacheFunction(cb) {
   return cached;
 }
 
+// eslint-disable-next-line no-undef
 module.exports = {
   cacheFunction: cacheFunction,
 };

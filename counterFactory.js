@@ -11,6 +11,7 @@ function counterFactory() {
   return counter;
 }
 
+// eslint-disable-next-line no-undef
 module.exports = {
   counterFactory: counterFactory,
 };

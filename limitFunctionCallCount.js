@@ -12,6 +12,7 @@ function limitFunctionCallCount(cb, n) {
   return limitCount;
 }
 
+// eslint-disable-next-line no-undef
 module.exports = {
   limitFunctionCallCount: limitFunctionCallCount,
 };
